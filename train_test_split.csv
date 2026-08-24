@@ -1,0 +1,52 @@
+file,gt_study,size,lang,role,status
+AlcaláHerrera_22_JPestSc_ID-1516.pdf,1516.0,S(1-5),en,test,ok
+Arlettaz_10_JOrnith_ID-15.pdf,15.0,M(6-30),de/non-en,test,ok
+Aviron_07_Effects of Swiss agri-environmental measures on arthropods_AAB.pdf,2668.0,M(6-30),de/non-en,train,ok
+Aviron_11_RestorationEcology_ID-18.pdf,18.0,M(6-30),de/non-en,train,ok
+Bickerton_12_EnvironmentalEntomology_ID-131.pdf,131.0,S(1-5),en,test,ok
+Blaauw_12_EcologicalEntomology.pdf,347.0,M(6-30),en,train,ok
+Blaauw_14_JAE.pdf,622.0,M(6-30),en,test,ok
+Blackmore_14_InsectConsDiv.pdf,2627.0,S(1-5),en,train,ok
+Blümel_24_JAE.pdf,1358.0,M(6-30),de/non-en,train,ok
+Boetzl_22_AEE.pdf,588.0,M(6-30),en,test,ok
+Campbell_17_AEE_ID-265.pdf,265.0,S(1-5),en,test,ok
+Campbell_17_Insects_ID-190.pdf,190.0,L(>30),en,test,ok
+Carvell_04_BiolCons.pdf,4.0,M(6-30),en,test,ok
+Carvell_07_JAE_ID-12.pdf,12.0,L(>30),en,test,ok
+Dale_20_UrbanEco.pdf,654.0,M(6-30),en,train,ok
+Dietzel_24_BiolCons.pdf,1091.0,S(1-5),en,train,ok
+Fischer_16_BiolConserv.pdf,1.0,S(1-5),en,train,ok
+Frank_04_BullEntRes_ID-630.pdf,630.0,M(6-30),en,train,ok
+Gardiner_20_JOrthopteraRes.pdf,1726.0,M(6-30),en,train,ok
+Griffiths-Lee_2022.pdf,228.0,M(6-30),en,train,ok
+Haenke_09_JAE.pdf,0.0,M(6-30),en,train,ok
+Heard_12_Quantifying the effects of Entry Level Stewardship (ELS) on biodiversity at the farm scale- the hillesden experiment_ID-2611.pdf,2611.0,L(>30),en,train,ok
+Huusela-Veistola_16_AEE.pdf,249.0,L(>30),en,train,ok
+Jacot_07_Improved field margins for a higher biodiversity_AAB.pdf,2617.0,L(>30),en,test,ok
+Kati_21_Plants.pdf,51.0,L(>30),en,train,ok
+Madeira_22_Horticulturae_ID-502.pdf,502.0,L(>30),en,train,ok
+Markó_12_mites_BioConScTech_ID-164.pdf,164.0,M(6-30),de/non-en,test,ok
+Markó_13_aphids_BioConScTech.pdf,429.0,L(>30),de/non-en,test,ok
+Markó_14_spiders_BioConScTech.pdf,2656.0,M(6-30),de/non-en,test,ok
+Marshall_07_The effect of arable field margin structure and composition on Orthoptera assemblages_AAB81.pdf,2618.0,M(6-30),en,train,ok
+Matteson_11_InsectConservDiversity.pdf,561.0,S(1-5),en,test,ok
+Nilsson_11_JAE.pdf,824.0,S(1-5),en,train,ok
+Norton_19_EcolApp_ID-2615.pdf,2615.0,L(>30),en,train,ok
+Piko_21_BAE.pdf,1028.0,M(6-30),en,test,ok
+Pollier_2018_AFE.pdf,206.0,L(>30),en,train,ok
+Poole_2024.pdf,2613.0,S(1-5),en,train,ok
+Potts_07_SAFFIE ch 6_ID-2620.pdf,2620.0,L(>30),en,train,ok
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608.0,L(>30),en,test,ok
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601.0,M(6-30),en,test,ok
+Rischen_22_JIC.pdf,95.0,M(6-30),en,train,ok
+Scheper_15_JAE.pdf,516.0,L(>30),en,test,ok
+Schubert_22_Basic&ApplEcol.pdf,1473.0,S(1-5),en,test,ok
+Simao_2018.pdf,1153.0,M(6-30),en,train,ok
+Sutton_20_Operation pollinator_OutlookPestMgmt_ID-2624.pdf,2624.0,L(>30),en,train,ok
+Turo_21_JAE.pdf,1448.0,L(>30),en,train,ok
+Venturini_2017.pdf,2626.0,S(1-5),en,test,ok
+Westbury_17_AEE.pdf,349.0,S(1-5),en,train,ok
+Williams_15_EcolApp.pdf,1155.0,L(>30),en,train,ok
+Zhang_19_JInsectSci_ID-686.pdf,686.0,S(1-5),en,train,ok
+paper19_plath2021.pdf,963.0,M(6-30),en,train,ok
+von Königslöw_2022.pdf,407.0,M(6-30),de/non-en,train,ok

@@ -1,0 +1,43 @@
+N = 118 | studies = 13 | failure rate (wrong) = 79.7 %
+strict failure rate (wrong or ambiguous) = 95.8 %
+
+========== MIXED-EFFECTS (glmer, fail = wrong) ==========
+                 Estimate Std. Error z value Pr(>|z|)
+(Intercept)        4.5119     2.4377  1.8509   0.0642
+species_Multiple   0.7344     0.9720  0.7555   0.4499
+sentence_Long     -2.5793     0.9442 -2.7317   0.0063
+multi_sampling     0.5052     2.3773  0.2125   0.8317
+
+========== LIKELIHOOD-RATIO TESTS (drop1) ==========
+Single term deletions
+
+Model:
+fail ~ species_Multiple + sentence_Long + multi_sampling + (1 | 
+    gt_study)
+                 npar     AIC    LRT  Pr(Chi)   
+<none>                 92.658                   
+species_Multiple    1  91.256 0.5975 0.439516   
+sentence_Long       1 100.523 9.8645 0.001685 **
+multi_sampling      1  90.699 0.0412 0.839231   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Random intercept variance = 9.0105 
+Approximate ICC = 0.7325 
+
+========== PER-STUDY FAILURE (wrong) ==========
+        fail
+gt_study  0  1
+    4     4 11
+    12    0 15
+    15    0  5
+    190   4  5
+    265   5  0
+    429   0 14
+    516   1  6
+    561   0  3
+    1028  0  3
+    2601  1 14
+    2608  9  6
+    2626  0  2
+    2656  0 10

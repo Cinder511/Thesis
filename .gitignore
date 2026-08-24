@@ -1,0 +1,7 @@
+# R session history and local data
+.Rhistory
+.RData
+*.docx
+*.xlsx
+reference_locked.csv
+reference_data_extraction.md

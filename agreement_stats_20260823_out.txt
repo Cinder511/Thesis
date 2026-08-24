@@ -1,0 +1,48 @@
+model rows: 245
+GT rows: 3302
+
+country: 19/20 agreement (100% if 19==20)
+location: 19/20 agreement (exact+partial)
+
+taxon study-level set agreement (my GT mapping): 146/245 = 59.6%  [paper: 149/245=60.8%]
+agree by term: {"mammals":14,"bugs":9,"bees":76,"wasps":2,"beetles - ground beetles":3,"spiders":19,"invertebrates":9,"mites":7,"aphids":2,"insects":4,"flies - other flies":1}
+
+taxon set-membership: 111/165 = 67.3% (paper reports 149/245=60.8%)
+taxon kappa pairs: paired=85 ambiguous=80 noPair=80, pair agreement 71/85
+taxon Cohen's kappa = 0.748 (Po=0.835, Pe=0.347, N=85)
+taxon Gwet's AC1 = 0.487
+taxon kappa excluding outside rows = 0.760 (Po=0.845, Pe=0.355, N=84)
+taxon kappa (no mini-mapping, outside as-is) = 0.643 (Po=0.765, Pe=0.340, N=85)
+taxon contingency (model \ GT), non-zero cells:
+  bees -> bees: 42
+  functional -> arthropods: 1
+  functional -> mites: 1
+  insects -> insects: 1
+  mammals -> mammals: 7
+  mites -> mites: 6
+  mixed taxa -> bees: 10
+  mixed taxa -> mites: 1
+  outside -> arthropods: 1
+  spiders -> spiders: 15
+
+metric kappa pairs: paired=66 ambiguous=80 noPair=99, agreement 39/66
+metric Cohen's kappa = 0.436 (Po=0.591, Pe=0.275, N=66)
+metric contingency non-zero:
+  abundance -> abundance: 27
+  abundance -> richness: 4
+  abundance -> visitation: 3
+  density -> visitation: 1
+  activity density -> activity density: 2
+  richness -> abundance: 1
+  richness -> richness: 4
+  richness -> visitation: 4
+  diversity -> visitation: 3
+  visitation -> visitation: 6
+  other -> abundance: 1
+  other -> density: 5
+  other -> visitation: 5
+
+months (paper set-scoring): correct=38 wrong=127
+months strict single-value pairs: paired=10 agree=5 (50.0%) ambiguous=104 noRef=96 AI_NA=35
+
+paper metric scoring: correct=163 wrong=34 = 82.7%

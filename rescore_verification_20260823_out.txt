@@ -1,0 +1,97 @@
+AI rows: 245 | with study mapping: 245
+GT rows: 3302
+
+===== COUNTRY =====
+  study 1516 [AlcaláHerrera_22_JPestSc_ID-]: GT={sweden} AI={sweden} -> CORRECT
+  study 15 [Arlettaz_10_JOrnith_ID-15.pd]: GT={switzerland} AI={switzerland} -> CORRECT
+  study 131 [Bickerton_12_EnvironmentalEn]: GT={united states} AI={united states} -> CORRECT
+  study 622 [Blaauw_14_JAE.pdf]: GT={united states} AI={united states} -> CORRECT
+  study 588 [Boetzl_22_AEE.pdf]: GT={germany} AI={germany} -> CORRECT
+  study 265 [Campbell_17_AEE_ID-265.pdf]: GT={united kingdom} AI={united kingdom} -> CORRECT
+  study 190 [Campbell_17_Insects_ID-190.p]: GT={united kingdom} AI={united kingdom} -> CORRECT
+  study 4 [Carvell_04_BiolCons.pdf]: GT={united kingdom} AI={united kingdom} -> CORRECT
+  study 12 [Carvell_07_JAE_ID-12.pdf]: GT={united kingdom} AI={united kingdom} -> CORRECT
+  study 2617 [Jacot_07_Improved field marg]: GT={switzerland} AI={switzerland} -> CORRECT
+  study 561 [Matteson_11_InsectConservDiv]: GT={united states} AI={united states} -> CORRECT
+  study 1028 [Piko_21_BAE.pdf]: GT={germany} AI={germany} -> CORRECT
+  study 2608 [Pywell_04_Comparison of new ]: GT={united kingdom} AI={united kingdom} -> CORRECT
+  study 2601 [Pywell_08_Farming for Wildli]: GT={united kingdom} AI={united kingdom} -> CORRECT
+  study 516 [Scheper_15_JAE.pdf]: GT={germany, sweden, netherlands, united kingdom} AI={germany, sweden, netherlands, united kingdom} -> CORRECT
+  study 1473 [Schubert_22_Basic&ApplEcol.p]: GT={germany} AI={germany} -> CORRECT
+  study 2626 [Venturini_2017.pdf]: GT={united states} AI={united states} -> CORRECT
+  study 164 [Markó_12_mites_BioConScTech]: GT={hungary} AI={hungary} -> CORRECT
+  study 429 [Markó_13_aphids_BioConScTec]: GT={hungary} AI={hungary} -> CORRECT
+  study 2656 [Markó_14_spiders_BioConScTe]: GT={hungary} AI={hungary} -> CORRECT
+COUNTRY: 20/20 = 100.0%
+
+===== LOCATION =====
+  NO-LOCATION paper: study 516 [Scheper_15_JAE.pdf] | GT locations: Germany / southern Sweden / Netherlands / England
+location verdicts: {
+  exact: 15,
+  "granularity/partial": 4,
+  AI_NA: 1,
+}
+
+===== MONTHS (study-set vs row-level) =====
+set-based: correct=38 wrong=127 (acc 23.0%) [AI_NA=35, GT_NA=45]
+of 38 set-correct: definite=12, ambiguous=26 (per-year definite=5)
+row-level strict (definite only): 7.3%  (12/165)
+row-level range: 7.3% – 23.0%
+
+per-year rows (study 190):
+  GT: metric=group richness months=15 year=2012
+  GT: metric=group richness months=15 year=2012
+  GT: metric=group richness months=15 year=2012
+  GT: metric=group richness months=27 year=2013
+  GT: metric=group richness months=27 year=2013
+  GT: metric=group richness months=27 year=2013
+  GT: metric=abundance months=14 year=2012
+  GT: metric=abundance months=15 year=2012
+AI rows for 190: ES1 months=14 (2012), 26 (2013) metric=Species Richness | ES2 months=14 (2012), 26 (2013) metric=Abundance | ES3 months=14 (2012), 26 (2013) metric=Abundance | ES4 months=14 (2012), 26 (2013) metric=Species Richness | ES5 months=14 (2012), 26 (2013) metric=Abundance | ES6 months=14 metric=Abundance | ES7 months=14 metric=Species Richness | ES8 months=14 metric=Abundance | ES9 months=14 metric=Abundance | ES10 months=14 metric=Density | ES11 months=14 metric=Other (predator-prey ratio) | ES12 months=26 metric=Other (sentinel moth-egg predation rate) | ES13 months=17 metric=Other (fruit number per branch) | ES14 months=29 metric=Other (harvested fruit size) | ES15 months=29 metric=Other (harvested fruit weight)
+
+===== TAXON no_gt_vocab labels =====
+AI labels that look like no_gt candidates:
+  Flowering dicotyledon plants (n=5)
+  Vascular plants (n=4)
+  Phytoseiid mites (n=4)
+  Insidious flower bug (n=3)
+  Aphidophagous natural enemies (n=3)
+  Apple trees (n=3)
+  Flowering plants (n=3)
+  Plants (n=3)
+  Flowering forbs (n=3)
+  Flowering dicot plants (n=3)
+  Parasitoids (n=3)
+  Insidious flower bugs (n=2)
+  Native perennial wildflowers (n=2)
+  Cider apple (n=2)
+  Natural enemies (n=2)
+  Non-aphidophagous natural enemies (n=2)
+  Birds (n=2)
+  Farmland birds (n=2)
+  Non-kleptoparasitic Halictidae (n=2)
+  Kleptoparasitic Halictidae (n=2)
+  Cabbage insect pests (n=1)
+  Barn Owls (n=1)
+  Wild pollinators (n=1)
+  Pest aphids (n=1)
+  Declining arable plants (n=1)
+  Non-kleptoparasitic halictid bees (n=1)
+  Spider mites (n=1)
+  Stigmaeid mites (n=1)
+  Tydeid mites (n=1)
+  Leafminer moth (n=1)
+  Eulophid parasitoids (n=1)
+  Summer fruit tortrix moth (n=1)
+  Codling moth (n=1)
+  Insect pests (n=1)
+  Green apple aphids (n=1)
+  Woolly apple aphid (n=1)
+  Planthoppers (n=1)
+  Parasitoid wasps (n=1)
+
+GT labels containing mite/moth/bird per matching study:
+  study 15: AI={Barn Owls} | GT={}
+  study 2608: AI={Birds} | GT={butterflies and moths (larvae)}
+  study 2601: AI={Farmland birds} | GT={}
+  study 164: AI={Spider mites; Stigmaeid mites; Tydeid mites; Phytoseiid mites; Leafminer moth; Summer fruit tortrix moth; Codling moth} | GT={predatory mites}

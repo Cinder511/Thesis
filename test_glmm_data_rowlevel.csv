@@ -1,0 +1,119 @@
+file_name,gt_study,effect_id,bd_metric,i_months_since_establishment,verdict,fail,fail_strict,species_Multiple,sentence_Long,multi_sampling
+Arlettaz_10_JOrnith_ID-15.pdf,15,ES1,Density,>24,wrong,1,1,0,0,0
+Arlettaz_10_JOrnith_ID-15.pdf,15,ES2,Density,>24,wrong,1,1,0,1,0
+Arlettaz_10_JOrnith_ID-15.pdf,15,ES3,Density,>24,wrong,1,1,0,1,0
+Arlettaz_10_JOrnith_ID-15.pdf,15,ES4,Density,>24,wrong,1,1,0,1,0
+Arlettaz_10_JOrnith_ID-15.pdf,15,ES5,Density,>24,wrong,1,1,0,1,0
+Campbell_17_AEE_ID-265.pdf,265,ES1,Visitation Rate,25,definite-correct,0,0,1,1,0
+Campbell_17_AEE_ID-265.pdf,265,ES2,Visitation Rate,25,definite-correct,0,0,1,1,0
+Campbell_17_AEE_ID-265.pdf,265,ES3,Visitation Rate,25,definite-correct,0,0,0,1,0
+Campbell_17_AEE_ID-265.pdf,265,ES4,Visitation Rate,25,definite-correct,0,0,1,1,0
+Campbell_17_AEE_ID-265.pdf,265,ES5,Visitation Rate,25,definite-correct,0,0,1,1,0
+Campbell_17_Insects_ID-190.pdf,190,ES1,Species Richness,"14 (2012), 26 (2013)",wrong,1,1,0,0,1
+Campbell_17_Insects_ID-190.pdf,190,ES2,Abundance,"14 (2012), 26 (2013)",wrong,1,1,0,1,1
+Campbell_17_Insects_ID-190.pdf,190,ES3,Abundance,"14 (2012), 26 (2013)",wrong,1,1,0,1,1
+Campbell_17_Insects_ID-190.pdf,190,ES4,Species Richness,"14 (2012), 26 (2013)",wrong,1,1,1,1,1
+Campbell_17_Insects_ID-190.pdf,190,ES5,Abundance,"14 (2012), 26 (2013)",wrong,1,1,0,1,1
+Campbell_17_Insects_ID-190.pdf,190,ES6,Abundance,14,ambiguous,0,1,1,1,1
+Campbell_17_Insects_ID-190.pdf,190,ES7,Species Richness,14,ambiguous,0,1,0,0,1
+Campbell_17_Insects_ID-190.pdf,190,ES8,Abundance,14,ambiguous,0,1,1,1,1
+Campbell_17_Insects_ID-190.pdf,190,ES9,Abundance,14,ambiguous,0,1,0,1,1
+Carvell_04_BiolCons.pdf,4,ES1,Abundance,10,ambiguous,0,1,0,1,1
+Carvell_04_BiolCons.pdf,4,ES2,Abundance,10,ambiguous,0,1,0,1,1
+Carvell_04_BiolCons.pdf,4,ES3,Abundance,10,ambiguous,0,1,0,1,1
+Carvell_04_BiolCons.pdf,4,ES4,Abundance,10,ambiguous,0,1,0,1,1
+Carvell_04_BiolCons.pdf,4,ES5,Abundance,21,wrong,1,1,1,1,1
+Carvell_04_BiolCons.pdf,4,ES6,Abundance,21,wrong,1,1,0,0,1
+Carvell_04_BiolCons.pdf,4,ES7,Abundance,21,wrong,1,1,0,0,1
+Carvell_04_BiolCons.pdf,4,ES8,Abundance,21,wrong,1,1,0,0,1
+Carvell_04_BiolCons.pdf,4,ES9,Abundance,21,wrong,1,1,0,0,1
+Carvell_04_BiolCons.pdf,4,ES10,Abundance,21,wrong,1,1,1,0,1
+Carvell_04_BiolCons.pdf,4,ES11,Abundance,21,wrong,1,1,0,0,1
+Carvell_04_BiolCons.pdf,4,ES12,Abundance,21,wrong,1,1,0,0,1
+Carvell_04_BiolCons.pdf,4,ES13,Abundance,21,wrong,1,1,0,0,1
+Carvell_04_BiolCons.pdf,4,ES14,Abundance,21,wrong,1,1,0,0,1
+Carvell_04_BiolCons.pdf,4,ES15,Abundance,21,wrong,1,1,0,0,1
+Carvell_07_JAE_ID-12.pdf,12,ES1,Abundance,8,wrong,1,1,1,1,1
+Carvell_07_JAE_ID-12.pdf,12,ES2,Abundance,8,wrong,1,1,1,1,1
+Carvell_07_JAE_ID-12.pdf,12,ES3,Abundance,8,wrong,1,1,1,1,1
+Carvell_07_JAE_ID-12.pdf,12,ES4,Abundance,8,wrong,1,1,1,1,1
+Carvell_07_JAE_ID-12.pdf,12,ES5,Abundance,8,wrong,1,1,1,1,1
+Carvell_07_JAE_ID-12.pdf,12,ES6,Abundance,8,wrong,1,1,0,1,1
+Carvell_07_JAE_ID-12.pdf,12,ES7,Abundance,8,wrong,1,1,0,1,1
+Carvell_07_JAE_ID-12.pdf,12,ES8,Abundance,8,wrong,1,1,0,0,1
+Carvell_07_JAE_ID-12.pdf,12,ES9,Abundance,8,wrong,1,1,0,1,1
+Carvell_07_JAE_ID-12.pdf,12,ES10,Abundance,8,wrong,1,1,0,1,1
+Carvell_07_JAE_ID-12.pdf,12,ES11,Species Richness,8,wrong,1,1,0,0,1
+Carvell_07_JAE_ID-12.pdf,12,ES12,Species Richness,8,wrong,1,1,0,1,1
+Carvell_07_JAE_ID-12.pdf,12,ES13,Species Richness,8,wrong,1,1,0,0,1
+Carvell_07_JAE_ID-12.pdf,12,ES14,Species Richness,8,wrong,1,1,0,1,1
+Carvell_07_JAE_ID-12.pdf,12,ES15,Species Richness,8,wrong,1,1,0,1,1
+Matteson_11_InsectConservDiversity.pdf,561,ES1,Species Richness,14,wrong,1,1,0,0,1
+Matteson_11_InsectConservDiversity.pdf,561,ES2,Species Richness,14,wrong,1,1,0,1,1
+Matteson_11_InsectConservDiversity.pdf,561,ES3,Species Richness,14,wrong,1,1,0,1,1
+Piko_21_BAE.pdf,1028,ES3,Abundance,60,wrong,1,1,0,1,0
+Piko_21_BAE.pdf,1028,ES6,Species Richness,60,wrong,1,1,0,1,0
+Piko_21_BAE.pdf,1028,ES10,Species Richness,60,wrong,1,1,0,1,0
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608,ES1,Species Richness,9,wrong,1,1,0,1,1
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608,ES2,Species Richness,9,wrong,1,1,0,1,1
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608,ES3,Abundance,8,ambiguous,0,1,0,1,1
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608,ES4,Abundance,8,ambiguous,0,1,0,1,1
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608,ES5,Species Richness,8,ambiguous,0,1,0,1,1
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608,ES6,Abundance,8,ambiguous,0,1,0,1,1
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608,ES7,Species Richness,8,ambiguous,0,1,0,1,1
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608,ES8,Abundance,52,ambiguous,0,1,0,1,1
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608,ES9,Species Richness,52,ambiguous,0,1,0,1,1
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608,ES10,Species Richness,7,wrong,1,1,0,1,1
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608,ES11,Abundance,13,wrong,1,1,0,0,1
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608,ES12,Species Richness,22,ambiguous,0,1,0,0,1
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608,ES13,Abundance,22,ambiguous,0,1,0,1,1
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608,ES14,Abundance,9,wrong,1,1,0,0,1
+Pywell_04_Comparison of new and existing agri-environment scheme option_Defra_ID-2608.pdf,2608,ES15,Species Richness,9,wrong,1,1,1,1,1
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601,ES1,Species Richness,22,wrong,1,1,0,1,1
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601,ES2,Species Richness,3,wrong,1,1,0,0,1
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601,ES3,Species Richness,9,wrong,1,1,0,0,1
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601,ES4,Species Richness,22,wrong,1,1,0,0,1
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601,ES5,Species Richness,3,wrong,1,1,0,0,1
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601,ES6,Species Richness,9,wrong,1,1,0,0,1
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601,ES7,Abundance,22,wrong,1,1,0,1,1
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601,ES8,Abundance,3,wrong,1,1,0,0,1
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601,ES9,Abundance,22,wrong,1,1,0,1,1
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601,ES10,Abundance,3,wrong,1,1,0,0,1
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601,ES11,Abundance,23,ambiguous,0,1,0,1,1
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601,ES12,Abundance,4,wrong,1,1,0,0,1
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601,ES13,Abundance,24,wrong,1,1,0,0,1
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601,ES14,Abundance,9,wrong,1,1,0,1,1
+Pywell_08_Farming for Wildlife Project - Annual Report_NERC Jordans.pdf,2601,ES15,Species Richness,9,wrong,1,1,0,1,1
+Scheper_15_JAE.pdf,516,ES2,Species Richness,12,wrong,1,1,0,1,1
+Scheper_15_JAE.pdf,516,ES3,Abundance,12,wrong,1,1,0,1,1
+Scheper_15_JAE.pdf,516,ES4,Species Richness,12,wrong,1,1,0,1,1
+Scheper_15_JAE.pdf,516,ES5,Abundance,12,wrong,1,1,0,1,1
+Scheper_15_JAE.pdf,516,ES6,Species Richness,9,wrong,1,1,0,1,1
+Scheper_15_JAE.pdf,516,ES7,Abundance,9,ambiguous,0,1,0,1,1
+Scheper_15_JAE.pdf,516,ES8,Species Richness,9,wrong,1,1,0,0,1
+Venturini_2017.pdf,2626,ES1,Visitation Rate,0,wrong,1,1,0,0,0
+Venturini_2017.pdf,2626,ES2,Visitation Rate,48,wrong,1,1,0,0,0
+Markó_13_aphids_BioConScTech.pdf,429,ES1,Abundance,3.0,wrong,1,1,0,1,1
+Markó_13_aphids_BioConScTech.pdf,429,ES3,Abundance,2.0,wrong,1,1,0,1,1
+Markó_13_aphids_BioConScTech.pdf,429,ES4,Abundance,2.0,wrong,1,1,1,1,1
+Markó_13_aphids_BioConScTech.pdf,429,ES5,Abundance,2.0,wrong,1,1,0,1,1
+Markó_13_aphids_BioConScTech.pdf,429,ES6,Abundance,2.0,wrong,1,1,0,1,1
+Markó_13_aphids_BioConScTech.pdf,429,ES7,Abundance,2.0,wrong,1,1,1,1,1
+Markó_13_aphids_BioConScTech.pdf,429,ES8,Abundance,2.0,wrong,1,1,1,1,1
+Markó_13_aphids_BioConScTech.pdf,429,ES9,Abundance,2.0,wrong,1,1,1,1,1
+Markó_13_aphids_BioConScTech.pdf,429,ES10,Abundance,2.0,wrong,1,1,0,1,1
+Markó_13_aphids_BioConScTech.pdf,429,ES11,Abundance,2.0,wrong,1,1,1,1,1
+Markó_13_aphids_BioConScTech.pdf,429,ES12,Abundance,2.0,wrong,1,1,1,1,1
+Markó_13_aphids_BioConScTech.pdf,429,ES13,Abundance,2.0,wrong,1,1,1,1,1
+Markó_13_aphids_BioConScTech.pdf,429,ES14,Abundance,2.0,wrong,1,1,0,1,1
+Markó_13_aphids_BioConScTech.pdf,429,ES15,Species Richness,2.0,wrong,1,1,1,1,1
+Markó_14_spiders_BioConScTech.pdf,2656,ES1,Abundance,1.0,wrong,1,1,0,1,1
+Markó_14_spiders_BioConScTech.pdf,2656,ES2,Species Richness,1.0,wrong,1,1,0,1,1
+Markó_14_spiders_BioConScTech.pdf,2656,ES3,Species Richness,1.0,wrong,1,1,0,1,1
+Markó_14_spiders_BioConScTech.pdf,2656,ES4,Abundance,1.0,wrong,1,1,0,1,1
+Markó_14_spiders_BioConScTech.pdf,2656,ES5,Abundance,1.0,wrong,1,1,1,1,1
+Markó_14_spiders_BioConScTech.pdf,2656,ES6,Abundance,2.0,wrong,1,1,1,1,1
+Markó_14_spiders_BioConScTech.pdf,2656,ES7,Abundance,2.0,wrong,1,1,1,1,1
+Markó_14_spiders_BioConScTech.pdf,2656,ES8,Abundance,2.0,wrong,1,1,1,1,1
+Markó_14_spiders_BioConScTech.pdf,2656,ES9,Abundance,2.0,wrong,1,1,1,1,1
+Markó_14_spiders_BioConScTech.pdf,2656,ES10,Abundance,2.0,wrong,1,1,1,1,1
